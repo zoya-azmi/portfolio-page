@@ -1,0 +1,20 @@
+H2 {
+    color: brown;
+	font-style: italic;
+}
+H3 {
+	color: brown;
+	font-style: italic;
+}
+DIV {
+	border: solid;
+}
+
+.gamename {
+	width:400px;
+}
+
+.parentcontainer {
+	display: flex;
+	justify-content: space-between;
+}
